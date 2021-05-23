@@ -2,7 +2,8 @@
 Basics for creating mysql ORM with Python.
 
 Require cred.py which contains:
-
-USERNAME = 'username'
-PASSWORD = 'password'
+<p>
+USERNAME = 'username'<br>
+PASSWORD = 'password'<br>
 DATABASE = 'dummytutorial'
+</p>
