@@ -1,5 +1,5 @@
 import mysql.connector
-from .cred import USER, PASSWORD
+from cred import USER, PASSWORD
 
 class DBError(Exception):
     TABLE_ERROR = "Table name not supplied, aborting"
